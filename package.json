@@ -1,5 +1,5 @@
 {
-  "name": "Pann",
+  "name": "Rikka Takanashi",
   "version": "3.0.0",
   "description": "Whatsapp Bot Connected With Pterodactyl",
   "main": "./cpsetting/connect.js",
@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node ./cpsetting/connect.js"
   },
-  "author": "Pann",
+  "author": "Rikka Takanashi",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
